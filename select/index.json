@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ないない",
+  "base_artist": "ReoNa",
+  "createdAt": "2025-12-27T07:38:42.540015Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ないない",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/01_ないない_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ないない - TV Size",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/02_ないない_-_TV_Size_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ないない",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/03_ないない_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ないない",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/04_ないない_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ないない - Instrumental",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/05_ないない_-_Instrumental_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ないない (TV Size)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/06_ないない_(TV_Size)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ないない [instrumental]",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/07_ないない_[instrumental]_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ないない (不存在)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/08_ないない_(不存在)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ないない (Instrumental)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/09_ないない_(Instrumental)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ないない -TV Ver.-",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/10_ないない_-TV_Ver.-_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ないない(ReoNa ONE-MAN Concert 2023「ピルグリム」～3.6 day 逃げて逢おうね～)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/11_ないない(ReoNa_ONE-MAN_Concert_2023「ピルグリム」~3.6_day_逃げて逢おうね~)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ないない",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/12_ないない_ReoNa.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ないない - Nainai",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/13_ないない_-_Nainai_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ないない",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/14_ないない_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ないない (TV Size)",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/15_ないない_(TV_Size)_ReoNa.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ReoNa 『ないない』-Music Video-",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/16_ReoNa_『ないない』-Music_Video-_ReoNa.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ないない -TV Ver.-",
+      "artist": "ReoNa",
+      "has_synced": true,
+      "path": "select/17_ないない_-TV_Ver.-_ReoNa.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ないない",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_ないない_ReoNa.txt"
+    }
+  ]
+}
